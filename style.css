@@ -8,3 +8,10 @@
     align-items: center;
     justify-content: center;
 }
+
+.content{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
